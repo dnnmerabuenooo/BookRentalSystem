@@ -6,7 +6,7 @@ public class BookRentalSystem {
 
         String[] titles = {"System Analysis and Design", "Android Application", "Programming Concepts and Logic Formulation"};
 
-        String[] authors = {"Vincent Mullet", "Fiona Martinez", "Lanz Ricamara"};
+        String[] authors = {"Gary B. Shelly", "Corinne Hoisington", "Rosauro E. Manuel"};
 
         int[] years = {2020, 2015, 2018};
 
